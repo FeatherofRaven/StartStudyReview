@@ -1,4 +1,4 @@
 # StartStudyReview
-testing a basic game, code in python
+testing a thing, code in python
 
-
+basic to complex 
